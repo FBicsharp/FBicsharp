@@ -18,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fbicsharp&show_icons=true&locale=en" alt="fbicsharp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fbicsharp&" alt="fbicsharp" /></p>
+
+[![Francesco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FBicsharp&theme=react-dark)](https://github.com/FBicsharp/github-readme-activity-graph)
+
