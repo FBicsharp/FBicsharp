@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francesco , my github id is FBicsharp</h1>
 <h3 align="center">I'm a self-taught, passionate software developer from Italy. I love new things and experiments</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fbicsharp" alt="fbicsharp" /></a> </p>
-
 - 🔭 I’m currently working **as software engineer using C#/VB .NET and .NET in general writing digital trasformation solution such as MES,Inustry 4.0,IOT software.**
 
 - 🌱 I’m currently learning **Blazor and GraphQL**
